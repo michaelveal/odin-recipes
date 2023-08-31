@@ -1,10 +1,23 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: beige;
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
     font-size: 36px;
     font-weight: 800;
 }
 
+img {
+    width: 500px;
+    height: auto;
+    padding-bottom: 50px;
+}
+
+a {
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
